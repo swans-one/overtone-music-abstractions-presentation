@@ -1,13 +1,12 @@
-# music-abstractions
+Music Abstractions
+==================
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Collection of abstractions, building towards a musical
+composition. Source code for a presentation to Pittsburgh Code and
+Supply Co on October 7th, 2014.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright 2014 Erik Swanson
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the MIT Public License. See LICENSE.
