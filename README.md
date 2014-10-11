@@ -51,7 +51,7 @@ suggestions.
 2. At the REPL, Overtone provides a help function, `odoc` which will
    print off documentation for a given command. For example:
 
-       => (odoc sin-osc)
+        => (odoc sin-osc)
 
    will print off information about the sine wave oscillator ugen.
 
