@@ -1,0 +1,17 @@
+
+
+
+
+
+
+                                          Music and Abstraction
+                                          ---------------------
+      
+                                  Making Music with Overtone and Clojure
+      
+      
+      
+                                              Erik Swanson
+      
+                                               @swans_one
+                                        TheErikSwanson@gmail.com
