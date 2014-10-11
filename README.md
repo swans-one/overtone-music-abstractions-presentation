@@ -33,6 +33,33 @@ networked Clojure REPL ([nREPL](https://github.com/clojure/tools.nrepl)).
 
 ## Getting Started with Overtone
 
+For someone interested in getting started with Overtone, the
+[introductory documentation](https://github.com/overtone/overtone/wiki)
+is fairly good and is definitely the right place to start. However, it
+is not at all comprehensive. For someone interested in going beyond
+the introductory documentation, but unsure how to proceede, I have two
+suggestions.
+
+1. Within the Overtone source,
+   [available on github](https://github.com/overtone/overtone/), are a
+   large number of
+   [examples](https://github.com/overtone/overtone/tree/master/src/overtone/examples). These
+   examples are not referenced in the introductory documentation, but
+   cover a much greater breadth of the functionality available through
+   Overtone.
+
+2. At the REPL, Overtone provides a help function, `odoc` which will
+   print off documentation for a given command. For example:
+
+       => (odoc sin-osc)
+
+   will print off information about the sine wave oscillator ugen.
+
+Simply typing in some of the examples linked above, and calling the
+`odoc` function on anything I did not immediately understand, helped
+me to quickly grasp a significant portion of what was possible with
+Overtone.
+
 
 ## License
 
