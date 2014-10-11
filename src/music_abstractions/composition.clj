@@ -1,7 +1,6 @@
 (ns overtone-play.composition
   (:use overtone.live))
 
-
 (definst chime [freq 440 amp 0.2 dur 1]
   (let [over-2 (* freq 2)
         over-3 (* freq 3.1)
@@ -78,4 +77,3 @@
                   bass (cycle bass-seq)
                   choir choir-seq})
 
-(stop)
